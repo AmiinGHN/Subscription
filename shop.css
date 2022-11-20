@@ -1,0 +1,170 @@
+body {
+    
+    margin: 0px;
+    background-color: #01352b;
+    width: 1350px;
+    height: 600px;
+    box-sizing: border-box;
+    font-family: "Varela Round";
+    font-style: normal;
+    font-weight: 350;
+}
+.main {
+    width: 1350px;
+    height: 600px;
+    box-sizing: border-box;
+}
+h1 {
+    font-size: 65px;
+    text-align: center;
+    color: white;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    text-shadow:  1px 4px #00775f, 2px 3px #00775f, 3px 2px #00775f, 4px 1px #00775f;
+}
+h2 {
+    margin-top: 0px;
+    padding-top: 20px;
+}
+ul {
+    list-style-type: none;
+    line-height: 30px;
+}
+li {
+    font-size: 14px;
+}
+.option3 ul {
+    height: 130px;
+    line-height: 30px;
+}
+i {
+    padding: 0 15px 0 0;
+    color: #009578;
+} 
+p {
+    font-size: 13px;
+}
+a {
+    background-color: white;
+    color: #009578;
+    padding: 10px 30px;
+    border: 2px solid #009578;
+    border-radius: 7px;
+    text-decoration: none;
+}
+a:hover {
+    border: 3px solid #009578;
+    font-weight: 600;
+}
+hr {
+    border-top: 1pt solid rgb(218, 218, 218);
+}
+.number {
+    font-size: 35px;
+    margin-bottom: 0px;
+}
+.price {
+margin-bottom: 40px;
+}
+.option1 {
+    box-sizing: border-box;
+    display: inline-block;
+    background-color: white;
+    width: 310px;
+    height: 465px;
+    margin-left: 190px;
+    margin-top: 0px;
+    border-radius: 25px;
+    vertical-align: middle;
+}
+.title1 {
+    color: white;
+    height: 100px;
+    background-color: #009578;
+    margin-top: 0px;
+    border-radius: 24px 24px 0 0;
+    text-align: center;
+}
+.options1 {
+    padding-left: 20px;
+}
+.details1 {
+    text-align: center;
+}
+.pm1 {
+    color: rgb(71, 71, 71);
+    margin-bottom: 10px;
+}
+.option2 {
+    display: inline-block;
+    background-color: white;
+    width: 310px;
+    height: 530px;
+    margin-left: 20px;
+    margin-top: 0px;
+    border-radius: 25px 25px 25px 25px;
+    vertical-align: middle;
+}
+.rec {
+    box-sizing: border-box;
+    background-color: #007761;
+    text-align: center;
+    height: 50px;
+    padding: 15px;
+    color: white;
+    border-radius: 22px 22px 0 0 ;
+ }
+.title2 {
+    color: white;
+    height: 100px;
+    background-color: #009578;
+    margin-top: 0px;
+    text-align: center;
+}
+.options2 {
+    padding-left: 20px;
+}
+.details2 {
+    text-align: center;
+}
+.minimum {
+    color: rgb(71, 71, 71);
+    margin-top: 40px;
+}
+.pm2 {
+    color: rgb(71, 71, 71);
+    margin-top: 0px;
+    margin-bottom: 40px;
+}
+.option3 {
+    display: inline-block;
+    background-color: white;
+    width: 310px;
+    height: 495px;
+    margin-left: 20px;
+    margin-right: 150px;
+    margin-top: 0px;
+    border-radius: 25px;
+    vertical-align: middle;
+}
+.title3 {
+    color: white;
+    height: 100px;
+    background-color: #009578;
+    margin-top: 0px;
+    border-radius: 24px 24px 0 0;
+    text-align: center;
+}
+.options3 {
+    height: 120px;
+    padding-left: 20px;
+    line-height: 20px;
+    margin: 10px 0;
+}
+.details3 {
+    text-align: center;
+}
+.pm3 {
+    color: rgb(71, 71, 71);
+    margin-bottom: 40px;
+}
